@@ -29,12 +29,6 @@ Web Developer · Designer · Copywriter · Open‑Source Enthusiast
 
 ---
 
-### 🎧 Now Playing
-<!--START_SECTION:spotify-->
-_Updating…_
-<!--END_SECTION:spotify-->
-
----
 
 ## 🛠️ Tech Stack
 

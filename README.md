@@ -152,7 +152,7 @@ const obodos = {
 <a href="https://buymeacoffee.com/mcquendie">
   <img src="https://img.shields.io/badge/Buy_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Coffee"/>
 </a>
-</p>
+</
 
 ---
 

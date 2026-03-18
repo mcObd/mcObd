@@ -1,169 +1,162 @@
-# Hi, I'm Obodos McQuendie 👋
+# Hi, I'm Obodos McQuendie
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=mcObd&fontAlign=50&fontAlignY=40&color=0:0f172a,50:0ea5e9,100:22c55e&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Building%20for%20the%20modern%20web&descAlign=50&descAlignY=62"
+    alt="Header banner for mcObd"
+    width="100%"
+  />
+</div>
 
 <div align="center">
 
-**Frontend Developer | UI/UX Designer | Building Modern Web Experiences**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://project-flux.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcquendie-obodos-0536883aa/)
-[![GitHub](https://img.shields.io/github/followers/mcObd?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/mcObd)
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=900&lines=Designing+clean+interfaces.;Building+responsive+frontend+experiences.;Turning+ideas+into+fast%2C+usable+products.;Open+to+collaboration+and+great+projects."
+      alt="Typing animation showing frontend and design specialties"
+    />
+  </a>
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate frontend developer focused on creating clean, responsive, and user-friendly web applications. I specialize in turning design concepts into pixel-perfect, functional websites that deliver exceptional user experiences.
-
-- 🔭 Currently building modern web applications with **React** and **TypeScript**
-- 🌱 Learning **C#** and **Java** to expand my backend capabilities
-- 💼 Open to **freelance projects** and **collaboration opportunities**
-- 🎯 2026 Goal: Contribute to more open-source projects and land a full-time developer role
-- ⚡ Fun fact: I combine code with compelling copy to build websites that convert
-
----
-
-## 🚀 Featured Projects
-
-### 🏢 [DigiLab](https://digilab-ten.vercel.app/)
-Modern business landing page with smooth animations and responsive design
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Animated sections, mobile-first design, optimized performance
-- **Highlights:** Clean UI, fast loading times, conversion-focused layout
-
-### 🌿 [Greeny](https://greeny-three.vercel.app/)
-E-commerce platform for sustainable products
-- **Tech Stack:** React, CSS3, JavaScript
-- **Features:** Product catalog, responsive grid layout, smooth navigation
-- **Highlights:** Modern design system, accessibility-focused
-
-### 💼 [Project Flux](https://project-flux.vercel.app/)
-Personal portfolio showcasing web development work
-- **Tech Stack:** Next.js, Tailwind CSS, TypeScript
-- **Features:** Dynamic routing, SEO optimization, dark mode
-- **Highlights:** Fast performance, modern animations, fully responsive
-
-### 🎨 [Poly Site](https://poly-site-ten.vercel.app/)
-Creative agency website template
-- **Tech Stack:** HTML5, CSS3, JavaScript
-- **Features:** Interactive sections, scroll animations, contact forms
-- **Highlights:** Bold design, engaging UX, mobile-optimized
-
----
-
-## 🛠️ Technical Skills
-
-### Languages & Frameworks
-```javascript
-const skills = {
-  languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
-  frameworks: ['React', 'Next.js'],
-  styling: ['Tailwind CSS', 'CSS3', 'Responsive Design'],
-  design: ['Figma', 'UI/UX Design', 'Prototyping'],
-  tools: ['Git', 'GitHub', 'VS Code', 'Vercel'],
-  learning: ['C#', 'Java'],
-  bonus: ['Copywriting', 'Content Strategy', 'SEO']
-};
-```
-
-### Core Competencies
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mcObd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mcObd&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcObd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" alt="Top Languages" width="48%"/>
+  <a href="https://project-flux.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/mcquendie-obodos-0536883aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <a href="mailto:mcquendie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mcquendie%40gmail.com-16a34a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
+  <a href="https://github.com/mcObd">
+    <img src="https://img.shields.io/github/followers/mcObd?style=for-the-badge&logo=github&label=Follow&color=111827" alt="GitHub followers badge" />
+  </a>
 
 </div>
 
----
+## About Me
 
-## 💼 What I Offer
+I build polished, responsive interfaces that feel smooth, readable, and intentional on every screen size. My sweet spot is combining frontend engineering with UI thinking so a product looks sharp and works clearly.
 
-### For Employers
-- Clean, maintainable code that follows best practices
-- Pixel-perfect implementation of designs
-- Responsive layouts that work on all devices
-- Strong communication and collaboration skills
-- Fast learner with a growth mindset
+- Building with `React`, `Next.js`, `TypeScript`, and modern CSS workflows
+- Growing into backend development with `C#` and `Java`
+- Open to freelance work, collaboration, and full-time frontend opportunities
+- Focused on shipping production-ready projects with clean UX and strong performance
 
-### For Clients
-- Modern, professional websites that convert visitors
-- UI/UX design with user experience in focus
-- SEO-optimized solutions for better visibility
-- Compelling copy that resonates with your audience
-- Ongoing support and maintenance
+## What I Bring
 
----
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on exciting projects or discussing opportunities!
-
-### Professional
-- 📧 Email: [mcquendie@gmail.com](mailto:mcquendie@gmail.com)
-- 💼 LinkedIn: [Mcquendie Obodos](https://www.linkedin.com/in/mcquendie-obodos-0536883aa/)
-- 🌐 Portfolio: [project-flux.vercel.app](https://project-flux.vercel.app/)
-- 📅 Schedule a Call: [calendly.com/mcquendie](https://calendly.com/mcquendie)
-
-### Social
-- 🐦 Twitter: [@mcObd](https://twitter.com/mcObd)
-- 📸 Instagram: [@mcquendie](https://instagram.com/mcquendie)
-
----
-
-## 🎯 Current Focus
-
-```typescript
-const currentGoals = {
-  2026: [
-    'Master React and TypeScript',
-    'Build 5+ production-ready projects',
-    'Contribute to open-source',
-    'Land a developer role at an innovative company',
-    'Expand backend skills with C# and Java'
+```ts
+const obodos = {
+  role: "Frontend Developer + UI/UX Designer",
+  strengths: [
+    "Responsive interfaces",
+    "Modern landing pages",
+    "Design-to-code implementation",
+    "Clean component architecture",
+    "Copy that supports conversion"
   ],
-  openTo: [
-    'Full-time opportunities',
-    'Freelance projects',
-    'Collaborative ventures',
-    'Mentorship',
-    'Open-source contributions'
-  ]
+  currentlyLearning: ["C#", "Java"],
+  openTo: ["Freelance projects", "Frontend roles", "Creative collaborations"]
 };
 ```
 
----
+## Toolbox
 
 <div align="center">
-
-### 💡 "Clean code, compelling copy, beautiful design — building the web one project at a time"
-
-![Profile Views](https://komarev.com/ghpvc/?username=mcObd&color=61DAFB&style=for-the-badge&label=Profile+Views)
-
-**⭐ If you find my work interesting, consider starring my repositories!**
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
----
+## Featured Work
+
+### [Project Flux](https://project-flux.vercel.app/)
+Personal portfolio built to showcase work, motion, and clean visual storytelling.
+
+- Stack: `Next.js`, `TypeScript`, `Tailwind CSS`
+- Focus: performance, SEO, modern animation, responsive layout
+
+### [DigiLab](https://digilab-ten.vercel.app/)
+Business landing page designed to feel sharp, fast, and conversion-focused.
+
+- Stack: `HTML`, `CSS`, `JavaScript`
+- Focus: smooth interactions, mobile-first structure, clear content hierarchy
+
+### [Greeny](https://greeny-three.vercel.app/)
+Sustainable e-commerce concept with a product-first layout and accessible visual system.
+
+- Stack: `React`, `JavaScript`, `CSS3`
+- Focus: product browsing, clean UI, responsive grid design
+
+### [Poly Site](https://poly-site-ten.vercel.app/)
+Creative agency template with bold sections and scroll-based energy.
+
+- Stack: `HTML5`, `CSS3`, `JavaScript`
+- Focus: branding, interaction, device-friendly presentation
+
+## GitHub Snapshot
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer" alt="Footer Wave"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mcObd&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=cbd5e1&icon_color=22c55e&rank_icon=github"
+    alt="GitHub stats for mcObd"
+    width="100%"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=mcObd&theme=transparent&hide_border=true&stroke=334155&ring=0ea5e9&fire=22c55e&currStreakLabel=e2e8f0&sideNums=e2e8f0&currStreakNum=e2e8f0&sideLabels=94a3b8&dates=94a3b8"
+    alt="GitHub streak for mcObd"
+    width="100%"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcObd&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=cbd5e1"
+    alt="Top languages used by mcObd"
+    width="100%"
+  />
+</div>
+
+## 2026 Focus
+
+- Ship more production-grade frontend projects
+- Deepen mastery in `React` and `TypeScript`
+- Contribute to open source consistently
+- Expand backend confidence with `C#` and `Java`
+- Join a strong team building useful digital products
+
+## Let's Build Something
+
+If you need a frontend developer who cares about both the code and the user experience, let's talk.
+
+- Portfolio: [project-flux.vercel.app](https://project-flux.vercel.app/)
+- LinkedIn: [Mcquendie Obodos](https://www.linkedin.com/in/mcquendie-obodos-0536883aa/)
+- Email: [mcquendie@gmail.com](mailto:mcquendie@gmail.com)
+- Schedule: [calendly.com/mcquendie](https://calendly.com/mcquendie)
+
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=mcObd&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:0ea5e9,100:22c55e"
+    alt="Footer wave"
+    width="100%"
+  />
 </div>

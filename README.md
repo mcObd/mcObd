@@ -36,6 +36,15 @@
   <a href="https://www.instagram.com/mcquendie_?igsh=MTIveTh3cHhpa2VyaA==">
     <img src="https://img.shields.io/badge/Instagram-Message-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
   </a>
+  <a href="https://x.com/Mcquendie">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X badge" />
+  </a>
+  <a href="https://www.facebook.com/mcquendie.obodos?rdid=CD2DsSKwCykU5hoo&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GrENVQY8S%2F#">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook badge" />
+  </a>
+  <a href="https://www.threads.com/@mcquendie_">
+    <img src="https://img.shields.io/badge/Threads-Follow-101010?style=for-the-badge&logo=threads&logoColor=white" alt="Threads badge" />
+  </a>
   <a href="https://wa.me/message/3LFWRJNOGPT3M1">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp badge" />
   </a>
@@ -155,6 +164,9 @@ If you need a frontend developer who cares about both the code and the user expe
 - Email: [obodosmcquendie@gmail.com](mailto:obodosmcquendie@gmail.com)
 - TikTok: [@mcquendie_](https://www.tiktok.com/@mcquendie_?_t=ZM-8xchTobGSxk&_r=1)
 - Instagram: [@mcquendie_](https://www.instagram.com/mcquendie_?igsh=MTIveTh3cHhpa2VyaA==)
+- X: [@Mcquendie](https://x.com/Mcquendie)
+- Facebook: [mcquendie.obodos](https://www.facebook.com/mcquendie.obodos?rdid=CD2DsSKwCykU5hoo&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GrENVQY8S%2F#)
+- Threads: [@mcquendie_](https://www.threads.com/@mcquendie_)
 - WhatsApp: [wa.me/message/3LFWRJNOGPT3M1](https://wa.me/message/3LFWRJNOGPT3M1)
 
 <div align="center">

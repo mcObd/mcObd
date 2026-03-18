@@ -27,8 +27,17 @@
   <a href="https://www.linkedin.com/in/mcquendie-obodos-0536883aa/">
     <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
-  <a href="mailto:mcquendie@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mcquendie%40gmail.com-16a34a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  <a href="mailto:obodosmcquendie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-obodosmcquendie%40gmail.com-16a34a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
+  <a href="https://www.tiktok.com/@mcquendie_?_t=ZM-8xchTobGSxk&_r=1">
+    <img src="https://img.shields.io/badge/TikTok-Follow-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok badge" />
+  </a>
+  <a href="https://www.instagram.com/mcquendie_?igsh=MTIveTh3cHhpa2VyaA==">
+    <img src="https://img.shields.io/badge/Instagram-Message-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
+  </a>
+  <a href="https://wa.me/message/3LFWRJNOGPT3M1">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp badge" />
   </a>
   <a href="https://github.com/mcObd">
     <img src="https://img.shields.io/github/followers/mcObd?style=for-the-badge&logo=github&label=Follow&color=111827" alt="GitHub followers badge" />
@@ -143,8 +152,10 @@ If you need a frontend developer who cares about both the code and the user expe
 
 - Portfolio: [project-flux.vercel.app](https://project-flux.vercel.app/)
 - LinkedIn: [Mcquendie Obodos](https://www.linkedin.com/in/mcquendie-obodos-0536883aa/)
-- Email: [mcquendie@gmail.com](mailto:mcquendie@gmail.com)
-- Schedule: [calendly.com/mcquendie](https://calendly.com/mcquendie)
+- Email: [obodosmcquendie@gmail.com](mailto:obodosmcquendie@gmail.com)
+- TikTok: [@mcquendie_](https://www.tiktok.com/@mcquendie_?_t=ZM-8xchTobGSxk&_r=1)
+- Instagram: [@mcquendie_](https://www.instagram.com/mcquendie_?igsh=MTIveTh3cHhpa2VyaA==)
+- WhatsApp: [wa.me/message/3LFWRJNOGPT3M1](https://wa.me/message/3LFWRJNOGPT3M1)
 
 <div align="center">
   <img

@@ -21,9 +21,6 @@
 
 <div align="center">
 
-  <a href="https://project-flux.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
-  </a>
   <a href="https://www.linkedin.com/in/mcquendie-obodos-0536883aa/">
     <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
@@ -45,7 +42,7 @@
   <a href="https://www.threads.com/@mcquendie_">
     <img src="https://img.shields.io/badge/Threads-Follow-101010?style=for-the-badge&logo=threads&logoColor=white" alt="Threads badge" />
   </a>
-  <a href="https://wa.me/message/3LFWRJNOGPT3M1">
+  <a href="https://wa.me/message/PR6PLI5D6K4MJ1">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp badge" />
   </a>
   <a href="https://github.com/mcObd">
@@ -58,24 +55,28 @@
 
 I build polished, responsive interfaces that feel smooth, readable, and intentional on every screen size. My sweet spot is combining frontend engineering with UI thinking so a product looks sharp and works clearly.
 
-- Building with `React`, `Next.js`, `TypeScript`, and modern CSS workflows
+- Building with `React`, `JavaScript`, `Supabase`, and modern CSS workflows
 - Growing into backend development with `C#` and `Java`
+- Experienced with AI-assisted development using `Cursor` and `Codex`
 - Open to freelance work, collaboration, and full-time frontend opportunities
 - Focused on shipping production-ready projects with clean UX and strong performance
 
 ## What I Bring
 
-```ts
+```js
 const obodos = {
   role: "Frontend Developer + UI/UX Designer",
   strengths: [
     "Responsive interfaces",
     "Modern landing pages",
+    "Supabase-backed web apps",
+    "AI-assisted development with Cursor and Codex",
     "Design-to-code implementation",
     "Clean component architecture",
-    "Copy that supports conversion"
+    "SEO-focused copy that supports discovery and conversion"
   ],
   currentlyLearning: ["C#", "Java"],
+  tools: ["React", "JavaScript", "Supabase", "Cursor", "Codex", "Figma"],
   openTo: ["Freelance projects", "Frontend roles", "Creative collaborations"]
 };
 ```
@@ -86,22 +87,23 @@ const obodos = {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
+## AI Search Summary
+
+Obodos McQuendie is a frontend developer and UI/UX designer focused on responsive web interfaces, React development, JavaScript, Supabase projects, conversion-focused landing pages, portfolio websites, and AI-assisted coding workflows with Cursor and Codex. Available for freelance frontend work, UI implementation, web app interfaces, and collaboration on fast, accessible, SEO-friendly digital products.
+
 ## Featured Work
 
-### [Project Flux](https://project-flux.vercel.app/)
-Personal portfolio built to showcase work, motion, and clean visual storytelling.
-
-- Stack: `Next.js`, `TypeScript`, `Tailwind CSS`
-- Focus: performance, SEO, modern animation, responsive layout
+- Focus: performance, search visibility, modern animation, responsive layout
 
 ### [DigiLab](https://digilab-ten.vercel.app/)
 Business landing page designed to feel sharp, fast, and conversion-focused.
@@ -150,8 +152,9 @@ Creative agency template with bold sections and scroll-based energy.
 ## 2026 Focus
 
 - Ship more production-grade frontend projects
-- Deepen mastery in `React` and `TypeScript`
+- Deepen mastery in `React`, `JavaScript`, and `Supabase`
 - Contribute to open source consistently
+- Build faster with `Cursor` and `Codex`
 - Expand backend confidence with `C#` and `Java`
 - Join a strong team building useful digital products
 
@@ -159,7 +162,6 @@ Creative agency template with bold sections and scroll-based energy.
 
 If you need a frontend developer who cares about both the code and the user experience, let's talk.
 
-- Portfolio: [project-flux.vercel.app](https://project-flux.vercel.app/)
 - LinkedIn: [Mcquendie Obodos](https://www.linkedin.com/in/mcquendie-obodos-0536883aa/)
 - Email: [obodosmcquendie@gmail.com](mailto:obodosmcquendie@gmail.com)
 - TikTok: [@mcquendie_](https://www.tiktok.com/@mcquendie_?_t=ZM-8xchTobGSxk&_r=1)
@@ -167,7 +169,7 @@ If you need a frontend developer who cares about both the code and the user expe
 - X: [@Mcquendie](https://x.com/Mcquendie)
 - Facebook: [mcquendie.obodos](https://www.facebook.com/mcquendie.obodos?rdid=CD2DsSKwCykU5hoo&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GrENVQY8S%2F#)
 - Threads: [@mcquendie_](https://www.threads.com/@mcquendie_)
-- WhatsApp: [wa.me/message/3LFWRJNOGPT3M1](https://wa.me/message/3LFWRJNOGPT3M1)
+- WhatsApp: [wa.me/message/PR6PLI5D6K4MJ1](https://wa.me/message/PR6PLI5D6K4MJ1)
 
 <div align="center">
   <img

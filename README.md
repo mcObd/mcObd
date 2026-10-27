@@ -2,8 +2,8 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=mcObd&fontAlign=50&fontAlignY=40&color=0:0f172a,50:0ea5e9,100:22c55e&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Building%20for%20the%20modern%20web&descAlign=50&descAlignY=62"
-    alt="Header banner for mcObd"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22c55e&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Building%20for%20the%20modern%20web&descAlign=50&descAlignY=62"
+    alt="Header banner"
     width="100%"
   />
 </div>

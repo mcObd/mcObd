@@ -167,6 +167,21 @@ If you need a frontend developer who cares about both the code and the user expe
 - Threads: [@mcquendie_](https://www.threads.com/@mcquendie_)
 - WhatsApp: [wa.me/message/PR6PLI5D6K4MJ1](https://wa.me/message/PR6PLI5D6K4MJ1)
 
+<!-- GitHub commit activity -->
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mcObd&bg_color=0f172a&color=0ea5e9&line=22c55e&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&title_color=0ea5e9"
+    alt="GitHub commit activity graph for mcObd"
+    width="100%"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mcObd&show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=cbd5e1&icon_color=22c55e&custom_title=Total%20Commits"
+    alt="Total commits for mcObd"
+  />
+</div>
 <div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=mcObd&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"
